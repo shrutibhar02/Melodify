@@ -10,4 +10,4 @@ Melodify is my personal web application project, a Spotify clone that allows use
 - Responsive design for a seamless experience across various devices.
 
 # Result
-![error] (images/Spotify Clone.png)
+![error](images/Spotify Clone.png)
